@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "File Transfer", "File Transfer\File Transfer.dtproj", "{C35FF4C7-5A0D-46BD-BE99-740FF8395625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C35FF4C7-5A0D-46BD-BE99-740FF8395625}.Development|Default.ActiveCfg = Development
+		{C35FF4C7-5A0D-46BD-BE99-740FF8395625}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4B071C7-BE16-446F-9157-B89B49FAFC57}
+	EndGlobalSection
+EndGlobal
